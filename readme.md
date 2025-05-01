@@ -28,7 +28,7 @@ The project includes a Gradio app (`app.py`) to interactively compare these meth
 * Adjust the `block_size` parameter using slider for Dynamic Otsu.
 
 <div style="text-align: center;">
-    <img src="utils/demo.png" alt="Cropping Option Example" width="400" style="margin-left: 20px;">
+    <img src="utils/demo.png" alt="Cropping Option Example" width="600" style="margin-left: 20px;">
 </div>
 
 * **Demo URL:**
