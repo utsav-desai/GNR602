@@ -25,12 +25,11 @@ The project includes a Gradio app (`app.py`) to interactively compare these meth
 * View precomputed results on example images.
 * Upload your own image and apply Global or Dynamic Otsu.
 * Cropping option available as shown in the below image.
+* Adjust the `block_size` parameter using slider for Dynamic Otsu.
 
 <div style="text-align: center;">
-    <img src="utils/cropping.png" alt="Cropping Option Example" width="400" style="margin-left: 20px;">
+    <img src="utils/demo.png" alt="Cropping Option Example" width="400" style="margin-left: 20px;">
 </div>
-
-* Adjust the `block_size` parameter using slider for Dynamic Otsu.
 
 * **Demo URL:**
     https://huggingface.co/spaces/scriea/GNR602-Demo
